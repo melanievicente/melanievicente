@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <video src="[video](./imagenes/video2.mp4)" width="500" controls autoplay loop muted></video>
+  <video src="https://github.com/melanievicente/melanievicente/tree/89f274e49f388cbb8ded20e7926bdd787c065707/imagenes/video2.mp4" width="500" controls autoplay loop muted></video>
 </p>
 
 
