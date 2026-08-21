@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="imagenes/video2.mp4" width="500"/>
+  <video src="https://raw.githubusercontent.com/melanievicente/melanievicente/main/imagenes/video2.mp4" width="500" controls autoplay loop muted></video>
 </p>
 
 ## &gt; whoami
