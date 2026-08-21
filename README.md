@@ -32,7 +32,7 @@
 
 ## &gt; whoami
 
-<table border="0" cellspacing="0" cellpadding="10" style="border:none;"> <tr> <td width="40%" valign="top" style="border:none;">
+<table>
 <tr>
 <td width="40%" valign="top">
 
