@@ -32,9 +32,10 @@
 
 ## &gt; whoami
 
-<table>
+
+<table border="0" cellspacing="0" cellpadding="10" style="border:none;">
 <tr>
-<td width="40%" valign="top">
+<td width="40%" valign="top" style="border:none;">
 
 ```yaml
 name: Melanie Vicente
@@ -48,7 +49,7 @@ mindset: "Build. Break. Learn. Repeat."
 ```
 
 </td>
-<td width="35%" valign="top">
+<td width="35%" valign="top" style="border:none;">
 
 ### 🚀 Enfoque actual
 
@@ -59,7 +60,7 @@ mindset: "Build. Break. Learn. Repeat."
 - ☕ Impulsada por cafe y curiosidad
 
 </td>
-<td width="25%" valign="top" align="center">
+<td width="25%" valign="top" align="center" style="border:none;">
 
 <img width="200" height="300" alt="video4" src="https://github.com/user-attachments/assets/28426e5b-5771-494e-9cc9-d9b103766dfa" />
 
