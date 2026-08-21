@@ -118,18 +118,6 @@ mindset: "Build. Break. Learn. Repeat."
 
 <br/>
 
-## &gt; trophies --unlock
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=melanievicente&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:808080,100:FFFFFF&height=3&section=header" width="100%"/>
-
-<br/>
-
 ## &gt; arcade --play
 
 <div align="center">
