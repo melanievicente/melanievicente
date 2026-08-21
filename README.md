@@ -46,6 +46,10 @@ focus:
   - Software Engineering
 status: Decimo superior
 mindset: "Build. Break. Learn. Repeat."
+
+
+
+
 ```
 
 </td>
