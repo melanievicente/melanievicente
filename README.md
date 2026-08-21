@@ -5,7 +5,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/svg/Bottom.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=200&section=header&text=Melanie%20Vicente&fontSize=42&fontColor=39FF14&fontAlign=50&fontAlignY=35&desc=Data%20Scientist%20%7C%20Software%20Engineer&descAlign=50&descAlignY=55&animation=fadeIn" width="100%"/>
 
 ## &gt; whoami
 
@@ -45,10 +45,10 @@ $ cat about_me.txt
 ## &gt; connect --social
 
 <p align="center">
-  <a href="https://linkedin.com/in/melanievicente" target="_blank">
+  <a href="https://www.linkedin.com/in/melanie-vicente-fajardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
-  <a href="mailto:tu@correo.com">
+  <a href="mailto:melanievicente070104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" />
   </a>
 </p>
