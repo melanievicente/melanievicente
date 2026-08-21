@@ -5,9 +5,8 @@
 
 </div>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/34a4d3c3-1488-4da4-ab1c-2cc85111c375" width="500" controls autoplay loop muted></video>
-</p>
+<img width="400" height="226" alt="video1" src="https://github.com/user-attachments/assets/46ecc944-045f-45e3-b783-0e57b3c3ac9b" />
+
 
 ## > whoami
 
