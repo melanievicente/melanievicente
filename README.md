@@ -5,9 +5,10 @@
 
 </div>
 
-<p align="center">
-  <video src="https://raw.githubusercontent.com/melanievicente/melanievicente/main/imagenes/video2.mp4" width="500" controls autoplay loop muted></video>
-</p>
+
+https://github.com/user-attachments/assets/515f9d12-bc1a-4de6-baa8-0b9cfb68df8b
+
+
 
 ## > whoami
 
