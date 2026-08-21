@@ -61,7 +61,7 @@ mindset: "Build. Break. Learn. Repeat."
 </td>
 <td width="25%" valign="top" align="center">
 
-<img src="./imagenes/ventana.jpeg" width="100%"/>
+<img width="200" height="300" alt="video4" src="https://github.com/user-attachments/assets/28426e5b-5771-494e-9cc9-d9b103766dfa" />
 
 </td>
 </tr>
