@@ -109,9 +109,9 @@ mindset: "Build. Break. Learn. Repeat."
   
   <!-- Pac-Man Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./imagenes/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./imagenes/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="./imagenes/pacman-contribution-graph-dark.svg" width="100%"/>
   </picture>
   
   <br/>
