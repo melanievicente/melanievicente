@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="40%" valign="top">
 
 ```yaml
 name: Melanie Vicente
@@ -48,7 +48,7 @@ mindset: "Build. Break. Learn. Repeat."
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="35%" valign="top">
 
 ### 🚀 Enfoque actual
 
@@ -57,6 +57,11 @@ mindset: "Build. Break. Learn. Repeat."
 - 🧠 Explorando ciencia de datos aplicada
 - 💻 Buenas practicas de ingenieria de software
 - ☕ Impulsada por cafe y curiosidad
+
+</td>
+<td width="25%" valign="top" align="center">
+
+<img src="./imagenes/ventana.jpeg" width="100%"/>
 
 </td>
 </tr>
