@@ -9,8 +9,7 @@
   <video src="https://raw.githubusercontent.com/melanievicente/melanievicente/main/imagenes/video2.mp4" width="500" controls autoplay loop muted></video>
 </p>
 
-
-## &gt; whoami
+## > whoami
 
 ```bash
 $ cat about_me.txt
@@ -22,13 +21,13 @@ $ cat about_me.txt
 ------------------------------------------
 ```
 
-## &gt; tech_stack --list
+## > tech_stack --list
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,postgres,redis,linux,git,vscode,aws&theme=dark" />
 </p>
 
-## &gt; github_stats --show
+## > github_stats --show
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=melanievicente&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
@@ -39,13 +38,13 @@ $ cat about_me.txt
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melanievicente&theme=highcontrast&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 
-## &gt; contribution_matrix --render
+## > contribution_matrix --render
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=melanievicente&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" />
 </p>
 
-## &gt; connect --social
+## > connect --social
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melanie-vicente-fajardo" target="_blank">
