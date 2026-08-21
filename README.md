@@ -5,8 +5,9 @@
 
 </div>
 
-<img width="400" height="226" alt="video1" src="https://github.com/user-attachments/assets/46ecc944-045f-45e3-b783-0e57b3c3ac9b" />
-
+<p align="center">
+  <img width="500" height="326" alt="video1" src="https://github.com/user-attachments/assets/46ecc944-045f-45e3-b783-0e57b3c3ac9b" />
+</p>
 
 ## > whoami
 
