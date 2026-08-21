@@ -68,20 +68,37 @@ mindset: "Build. Break. Learn. Repeat."
 
 <br/>
 
-## &gt; github_stats --show
+## &gt; github_analytics --deep-scan
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=melanievicente&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=melanievicente&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=cccccc&currStreakNum=FFFFFF&sideNums=cccccc&dates=808080" alt="GitHub Streak"/>
+<!-- GitHub Stats + Streak en una sola fila -->
+<a href="https://github.com/melanievicente">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=melanievicente&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/melanievicente">
+  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=melanievicente&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=cccccc&currStreakNum=FFFFFF&sideNums=cccccc&dates=808080" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanievicente&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=cccccc" alt="Top Languages"/>
+<!-- Lenguajes con barras de progreso -->
+<a href="https://github.com/melanievicente">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=melanievicente&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=808080&hide_border=true" width="95%" alt="Activity Graph"/>
+<!-- Activity Graph -->
+<a href="https://github.com/melanievicente">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melanievicente&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=808080&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanievicente&theme=github_dark" width="95%" alt="Profile Details"/>
 
 </div>
 
