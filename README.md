@@ -91,14 +91,13 @@ mindset: "Build. Break. Learn. Repeat."
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="./imagenes/TU_IMAGEN.png" width="100%"/>
+<img width="100%" alt="video1" src="https://github.com/user-attachments/assets/dd318441-6888-466b-b8b5-efcc8b903357" />
+
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img width="100%" alt="video1" src="https://github.com/user-attachments/assets/838ed021-8a69-42b9-9c0e-7288f9765828" />
-
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
