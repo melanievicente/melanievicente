@@ -32,7 +32,6 @@
 
 ## &gt; whoami
 
-
 <table border="0" cellspacing="0" cellpadding="10" style="border:none;">
 <tr>
 <td width="40%" valign="top" style="border:none;">
@@ -46,10 +45,6 @@ focus:
   - Software Engineering
 status: Decimo superior
 mindset: "Build. Break. Learn. Repeat."
-
-
-
-
 ```
 
 </td>
@@ -80,41 +75,62 @@ mindset: "Build. Break. Learn. Repeat."
 
 ## &gt; github_analytics --deep-scan
 
-<div align="center">
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<!-- GitHub Stats + Streak en una sola fila -->
-<a href="https://github.com/melanievicente">
-  <img height="195em" src="https://github-stats-extended.vercel.app/api?username=melanievicente&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/melanievicente">
-  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=melanievicente&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=cccccc&currStreakNum=FFFFFF&sideNums=cccccc&dates=808080" alt="GitHub Streak"/>
-</a>
+<img src="https://github-stats-extended.vercel.app/api?username=melanievicente&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
 
-<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
 
-<!-- Lenguajes con barras de progreso -->
-<a href="https://github.com/melanievicente">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melanievicente&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=cccccc&currStreakNum=FFFFFF&sideNums=cccccc&dates=808080" alt="GitHub Streak" width="100%"/>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<!-- Activity Graph -->
-<a href="https://github.com/melanievicente">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melanievicente&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=808080&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
-</a>
+<img src="./imagenes/TU_IMAGEN.png" width="100%"/>
 
-<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
 
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanievicente&theme=github_dark" width="95%" alt="Profile Details"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
 
-</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melanievicente&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=808080&hide_border=true&custom_title=📈%20Contribution%20Activity" width="100%" alt="Activity Graph"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanievicente&theme=github_dark" width="100%" alt="Profile Details"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:808080,100:000000&height=3&section=header" width="100%"/>
+
+<br/>
+
+## &gt; trophies --unlock
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=melanievicente&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:808080,100:FFFFFF&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -190,12 +206,6 @@ mindset: "Build. Break. Learn. Repeat."
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/>
 </a>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./imagenes/breakout-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./imagenes/breakout-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./imagenes/breakout-contribution-graph.svg" width="100%"/>
-</picture>
-
 </div>
 
 <br/>
@@ -209,5 +219,5 @@ mindset: "Build. Break. Learn. Repeat."
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:808080,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:808080,100:000000&height=100&section=footer"/>
 </div>
