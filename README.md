@@ -91,13 +91,12 @@ mindset: "Build. Break. Learn. Repeat."
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img width="400" height="500" alt="video5" src="https://github.com/user-attachments/assets/3df6839c-8d19-495e-873e-40f19265baa2" />
-
+<img src="./imagenes/TU_IMAGEN.png" width="100%"/>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
@@ -120,6 +119,18 @@ mindset: "Build. Break. Learn. Repeat."
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:808080,100:000000&height=3&section=header" width="100%"/>
+
+<br/>
+
+## &gt; trophies --unlock
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=melanievicente&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:808080,100:FFFFFF&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -195,24 +206,18 @@ mindset: "Build. Break. Learn. Repeat."
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/>
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./imagenes/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./imagenes/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="./imagenes/breakout-contribution-graph.svg">
-</picture>
-
 </div>
 
 <br/>
 
 ## &gt; dev_quote --random
 
-<div align="center"> 
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Random Dev Quote" width="60%"/> 
-</div> 
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Random Dev Quote" width="60%"/>
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:808080,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:808080,100:000000&height=100&section=footer"/>
 </div>
