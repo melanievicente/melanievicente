@@ -91,7 +91,7 @@ mindset: "Build. Break. Learn. Repeat."
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img width="100%" alt="video1" src="https://github.com/user-attachments/assets/dd318441-6888-466b-b8b5-efcc8b903357" />
+<img width="400" height="500" alt="video5" src="https://github.com/user-attachments/assets/3df6839c-8d19-495e-873e-40f19265baa2" />
 
 
 </td>
