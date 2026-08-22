@@ -207,9 +207,9 @@ mindset: "Build. Break. Learn. Repeat."
 
 ## &gt; dev_quote --random
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="60%"/>
-</div>
+<div align="center"> 
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Random Dev Quote" width="60%"/> 
+</div> 
 
 <br/>
 
