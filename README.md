@@ -96,7 +96,9 @@ mindset: "Build. Break. Learn. Repeat."
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=melanievicente&layout=normal&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=cccccc&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
+<img width="100%" alt="video1" src="https://github.com/user-attachments/assets/838ed021-8a69-42b9-9c0e-7288f9765828" />
+
+
 
 </td>
 </tr>
@@ -119,18 +121,6 @@ mindset: "Build. Break. Learn. Repeat."
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:808080,100:000000&height=3&section=header" width="100%"/>
-
-<br/>
-
-## &gt; trophies --unlock
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=melanievicente&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:808080,100:FFFFFF&height=3&section=header" width="100%"/>
 
 <br/>
 
