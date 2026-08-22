@@ -209,5 +209,5 @@ mindset: "Build. Break. Learn. Repeat."
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:808080,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:808080,100:000000&height=100&section=footer" width="100%"/>
 </div>
