@@ -195,6 +195,12 @@ mindset: "Build. Break. Learn. Repeat."
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./imagenes/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./imagenes/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="./imagenes/breakout-contribution-graph.svg">
+</picture>
+
 </div>
 
 <br/>
