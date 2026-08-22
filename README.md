@@ -18,17 +18,11 @@
 
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=root%40github%3A~%23+whoami;Melanie_Vicente+-+Data+Scientist;Turning+data+into+decisions...;sudo+access%3A+denied+%F0%9F%98%88" alt="Typing SVG"/>
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:808080,100:000000&height=3&section=header" width="100%"/>
-
-<br/>
 
 ## &gt; whoami
 
