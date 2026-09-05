@@ -98,12 +98,13 @@ mindset: "Build. Break. Learn. Repeat."
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=melanievicente&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=808080&hide_border=true&custom_title=📈%20Contribution%20Activity" width="100%" alt="Activity Graph"/>
+
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanievicente&theme=github_dark" width="100%" alt="Profile Details"/>
 
 
 </td>
