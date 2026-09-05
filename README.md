@@ -105,7 +105,6 @@ mindset: "Build. Break. Learn. Repeat."
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melanievicente&theme=github_dark" width="100%" alt="Profile Details"/>
 
 </td>
 </tr>
